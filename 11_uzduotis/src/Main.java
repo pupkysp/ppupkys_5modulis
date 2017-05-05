@@ -21,6 +21,7 @@ public class Main {
 		tvs = reader.nextInt();
 		System.out.println("Iveskite triusio kaina:");
 		tk = reader.nextInt();
+		reader.close();
 		
 		bma = bm * tvs * tk;
 		vda = vd * tvs * tk;
