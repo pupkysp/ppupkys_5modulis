@@ -1,0 +1,12 @@
+Seneliai
+Jonas 2 4
+Antanas 4 1
+Arnoldas 2 5
+Lebron 2 2
+Karolis 4 1
+Greitis
+Maþylis 5 2
+Strazdas 4 2
+Plonas 4 4
+Rankelë 1 4
+Mantas 3 3
